@@ -4,6 +4,7 @@
   "description": "浏览器AI自动化后端 - 部署在腾讯EdgeOne Pages平台",
   "main": "index.js",
   "scripts": {
+    "build": "",
     "test": "node test/test.js"
   },
   "dependencies": {
